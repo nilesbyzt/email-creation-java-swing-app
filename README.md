@@ -8,8 +8,11 @@ User-friendly interface using Java Swing.
 Input validation for mandatory fields and password complexity.
 Email generation based on user-provided data.
 Data storage in a MySQL database.
-Prerequisites
-Before running the application, make sure you have the following installed on your system:
 
+Prerequisites 
+Before running the application, make sure you have the following installed on your system
 Java Development Kit (JDK) 8 or higher
 MySQL Server
+
+
+
